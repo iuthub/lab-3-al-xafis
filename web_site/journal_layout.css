@@ -1,0 +1,58 @@
+body {
+	background-image: url("images/backgrpic1.jfif");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.main {
+	border: 10px solid white;
+	background-color: white;
+	margin: auto;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+/*.rightgoers {
+	text-align: right;
+}*/
+
+.title {
+	background-color: #A8F0F0;
+	text-align: right;
+}
+.title h2{
+	font-size: 14pt;
+}
+
+.part1 {
+	border: 4px solid #C2E9E9;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	overflow: hidden;
+}
+
+.part2 {
+	border: 4px solid #C2E9E9;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	overflow: hidden;
+}
+
+.spaner {
+	border-bottom: 2px dashed blue;
+}
+
+.thumbnail {
+	width: 150px;
+	padding: 5px;
+	margin: 15px;
+	float: right;
+}
+.thumbnail2 {
+	width:150px;
+	padding: 5px;
+	padding-right: 4%;
+	margin: 15px;
+	float: right;
+}
